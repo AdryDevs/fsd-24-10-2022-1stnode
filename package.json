@@ -1,0 +1,23 @@
+{
+  "name": "fsd-24-10-2022-1stnode",
+  "version": "1.0.0",
+  "description": "daily class first node created",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdryDevs/fsd-24-10-2022-1stnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdryDevs/fsd-24-10-2022-1stnode/issues"
+  },
+  "homepage": "https://github.com/AdryDevs/fsd-24-10-2022-1stnode#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
